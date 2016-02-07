@@ -1,0 +1,24 @@
+﻿type project
+owners
+    Stefan Reichel
+authors 
+    Stefan Reichel
+projectUrl
+    http://github.com/bomret/Mailbox
+iconUrl
+    https://raw.githubusercontent.com/bomret/Mailbox/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/bomret/Mailbox/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    mailbox message async non-blocking inbox
+summary
+    A mailbox type for non-blocking, asynchronous message passing.
+description
+    A mailbox type for non-blocking, asynchronous message passing.
+
+
+
